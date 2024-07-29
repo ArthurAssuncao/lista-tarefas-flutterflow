@@ -1,14 +1,14 @@
 [
   {
     titulo: "Fazer compras",
-    concluida: false,
+    concluida: false
   },
   {
     titulo: "Passear com cachorro",
-    concluida: false,
+    concluida: false
   },
   {
     titulo: "Fazer lista de exercícios",
-    concluida: false,
+    concluida: false
   }
 ]
