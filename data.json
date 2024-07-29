@@ -1,14 +1,14 @@
 [
   {
-    "titulo": "Fazer compras",
-    "concluida": false
+    "nome": "Fazer compras",
+    "realizada": false
   },
   {
-    "titulo": "Passear com cachorro",
-    "concluida": false
+    "nome": "Passear com cachorro",
+    "realizada": false
   },
   {
-    "titulo": "Fazer lista de exercícios",
-    "concluida": false
+    "nome": "Fazer lista de exercícios",
+    "realizada": false
   }
 ]
