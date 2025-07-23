@@ -1,14 +1,14 @@
 [
   {
     "nome": "Fazer compras",
-    "realizada": false
+    "feito": false
   },
   {
     "nome": "Passear com cachorro",
-    "realizada": false
+    "feito": false
   },
   {
     "nome": "Fazer lista de exercícios",
-    "realizada": false
+    "feito": false
   }
 ]
